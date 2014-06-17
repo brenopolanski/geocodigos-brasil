@@ -2,9 +2,11 @@
 
 Lista de geocódigos do território brasileiro com coordenadas de latitude e longitude.
 
-### Exemplo usando os geocódigos do semiárido brasileiro:
+## Exemplo
 
 ![print-1](https://raw.github.com/brenopolanski/saiku-gmaps/gh-assets/print-1.png)
+
+> Exemplo usando os geocódigos do semiárido brasileiro.
 
 ## Contribuindo
 
