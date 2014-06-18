@@ -2,7 +2,7 @@
 
 Lista de geocódigos do território brasileiro com coordenadas de latitude e longitude no formato JSON.
 
-Um geocódigo é um código geográfico para identificar um ponto ou área da superfície da Terra.
+> Um geocódigo é um código geográfico para identificar um ponto ou área da superfície da Terra.
 > Fonte: *Wikipédia*
 
 ## Exemplo
