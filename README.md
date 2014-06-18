@@ -1,6 +1,6 @@
 # Geocódigos Brasil
 
-Lista de geocódigos do território brasileiro com coordenadas de latitude e longitude.
+Lista de geocódigos do território brasileiro com coordenadas de latitude e longitude no formato JSON.
 
 ## Exemplo
 
